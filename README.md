@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Abdullah
+  Hi, I'm Abdullah Rana
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  🏢 <strong>Walee Technologies</strong>
+  🏢 <strong>Company: Walee Technologies</strong>
 </p>
 
 <p align="center">
@@ -22,10 +22,10 @@
 <h2>🌟 About Me</h2>
 
 <ul>
-  <li>📊 Passionate about turning <strong>data into insights</strong></li>
-  <li>🌐 Building modern <strong>full-stack MERN applications</strong></li>
-  <li>🤖 Exploring <strong>Machine Learning & AI</strong></li>
-  <li>🚀 Always learning, always building</li>
+  <li>Passionate about turning <strong>data into insights</strong></li>
+  <li>Building modern <strong>full-stack MERN applications</strong></li>
+  <li>Exploring <strong>Machine Learning & AI</strong></li>
+  <li>Always learning, always building</li>
 </ul>
 
 <hr style="border:1px solid #30363d"/>
