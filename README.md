@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I’m Abdullah
 
-<!--
-**Abdullah-819/Abdullah-819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Scientist | MERN Stack Developer**
+🏢 **Walee Technologies**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+I’m a passionate **Data Scientist** and **MERN Stack Developer** who enjoys transforming raw data into meaningful insights and building scalable, user-focused web applications. I love working where **data, algorithms, and modern web technologies** meet.
+
+---
+
+## 🧠 What I Do
+
+* 📊 Analyze, clean, and visualize data to uncover insights
+* 🤖 Build data-driven and machine learning solutions
+* 🌐 Develop full-stack web applications using MERN Stack
+* ⚙️ Design RESTful APIs and scalable backend systems
+
+---
+## 🛠 Tech Stack
+
+### 📊 Data Science
+
+* Python
+* Pandas | NumPy | Tkinter | Flask
+* Matplotlib | Seaborn
+* Machine Learning
+* Data Analysis
+
+### 🌐 MERN Stack
+
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+
+### 🔧 Other Tools
+
+* JavaScript, Json
+* C++
+* Git & GitHub
+* REST APIs
+
+---
+
+## 🌱 Currently
+
+* 💼 Working at **Walee Technologies**
+* 📚 Learning advanced **Machine Learning & System Design**
+* 🚀 Building real-world projects with impact
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
+
