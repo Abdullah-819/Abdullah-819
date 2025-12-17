@@ -44,14 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safi-io&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safi-io&theme=tokyonight"/>
-</p>
-
----
-
 ## 📫 Let’s Connect
 - 🤝 Open to collaboration
 - 🌟 Love working on impactful projects
