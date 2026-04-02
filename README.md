@@ -15,24 +15,24 @@
   color: #c9d1d9;
   letter-spacing: 1px;
   margin-bottom: 6px;">
-  Data Scientist · Full-Stack Engineer · AI Practitioner
+  Data Scientist · Full-Stack Engineer · Applied AI
 </p>
 
 <p style="
   font-size: 0.95rem;
   color: #8b949e;
   margin-bottom: 10px;">
-  🚀 Building production systems at <strong style="color:#58a6ff;">Walee Technologies</strong>
+  🛰️ Engineering intelligent systems at <strong style="color:#58a6ff;">Walee Technologies</strong>
 </p>
 
 <p style="
   font-size: 0.95rem;
   color: #8b949e;
   margin-bottom: 16px;">
-  <strong>1.6+ years</strong> shipping full-stack products · <strong>5+ months</strong> in data science &amp; ML
+  <strong>1.6+ years</strong> architecting &amp; shipping full-stack software · <strong>5+ months</strong> modeling, analyzing, and deploying data-driven solutions
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Scalable+Systems+That+Ship;From+Data+to+Decisions;Interfaces+Users+Trust;AI+That+Fits+Production&center=true&width=520&height=40&color=00ffc3" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Systems+Built+to+Outlive+the+Hype;Models+Trained+for+Reality%2C+Not+Slides;Interfaces+Where+Latency+Meets+Intention;Data+Pipelines+That+Tell+the+Truth&center=true&width=560&height=40&color=00ffc3" />
 
 <p style="
   font-size: 1.1rem;
@@ -40,7 +40,7 @@
   color: #00ffc3;
   letter-spacing: 1px;
   margin-top: 15px;">
-  ⚡ Full-Stack MERN — built for scale, clarity, and speed
+  ⚡ MERN Stack — APIs, state, and UX orchestrated for scale
 </p>
 
 </div>
@@ -50,12 +50,12 @@
 <h2>About Me</h2>
 
 <ul>
-  <li><strong>1.6+ years</strong> designing and delivering <strong>scalable full-stack web applications</strong> end to end</li>
-  <li><strong>5+ months</strong> applying <strong>data science, machine learning, and analytics</strong> to real business problems</li>
-  <li>Turning <strong>messy, complex data</strong> into <strong>clear metrics, models, and decisions</strong></li>
-  <li>Invested in <strong>maintainable architecture, measurable performance, and thoughtful UX</strong></li>
-  <li>Comfortable across <strong>modern frameworks, APIs, cloud-style workflows, and live production</strong></li>
-  <li>Deepening expertise in <strong>AI, LLMs, and automation that actually ships</strong></li>
+  <li><strong>1.6+ years</strong> translating product ambiguity into <strong>scalable full-stack architectures</strong> that survive real traffic and real users</li>
+  <li><strong>5+ months</strong> operating at the intersection of <strong>analytics, machine learning, and decision science</strong> — from exploration to iteration</li>
+  <li>I specialize in turning <strong>noise into signal</strong>: structured experiments, interpretable metrics, and models that justify their own complexity</li>
+  <li>Obsessed with the engineering triangle: <strong>clean boundaries, measurable performance, and interfaces that respect attention</strong></li>
+  <li>Fluent in the full vertical: <strong>frameworks, APIs, persistence, deployment-minded workflows, and production hygiene</strong></li>
+  <li>Currently pushing deeper into <strong>LLMs, intelligent automation, and systems that learn without forgetting reliability</strong></li>
 </ul>
 
 <hr style="border:1px solid #30363d"/>
@@ -103,11 +103,11 @@
 <h2>🚀 What I Build</h2>
 
 <ul>
-  <li><strong>Full-stack products</strong> with clear boundaries, testable logic, and room to grow</li>
-  <li><strong>Analytics surfaces &amp; dashboards</strong> that teams actually use to decide faster</li>
-  <li><strong>ML workflows</strong> grounded in real constraints — data quality, latency, and maintainability</li>
-  <li><strong>REST APIs and backend services</strong> that stay predictable under load</li>
-  <li><strong>Interfaces</strong> that feel fast, intentional, and aligned with product goals</li>
+  <li><strong>Full-stack platforms</strong> where domain logic, data flow, and UI state stay honest with each other</li>
+  <li><strong>Analytics &amp; intelligence layers</strong> — dashboards and pipelines that change how teams decide, not just what they see</li>
+  <li><strong>ML that earns its place</strong>: validated assumptions, monitored drift, and models aligned with business constraints</li>
+  <li><strong>APIs &amp; services</strong> designed for contracts, versioning, and failure modes — not “happy path only” demos</li>
+  <li><strong>High-performance frontends</strong> where motion, hierarchy, and feedback loops feel intentional — not decorative</li>
 </ul>
 
 <hr style="border:1px solid #30363d"/>
@@ -115,10 +115,10 @@
 <h2>📈 Professional Focus</h2>
 
 <ul>
-  <li>Shipping <strong>AI-assisted features</strong> where the model supports the product, not the other way around</li>
-  <li>Designing around <strong>LLMs, automation, and human-in-the-loop</strong> where it matters</li>
-  <li>Embedding <strong>analytics and intelligence</strong> into systems people rely on daily</li>
-  <li>Prioritizing <strong>reliability, observability, and performance</strong> in real deployments</li>
+  <li>Shipping <strong>AI-native product behavior</strong>: retrieval, tooling, guardrails, and UX that keeps humans in command</li>
+  <li>Orchestrating <strong>LLM workflows</strong> with clear inputs, evaluable outputs, and cost-aware design</li>
+  <li>Weaving <strong>analytics into the product core</strong> so intelligence is a feature, not an afterthought</li>
+  <li>Building for <strong>production gravity</strong>: observability, resilience, and performance under load — where reputations are won or lost</li>
 </ul>
 
 <hr style="border:1px solid #30363d"/>
@@ -126,11 +126,11 @@
 <h2>🤝 Let’s Connect</h2>
 
 <ul>
-  <li>Open to <strong>freelance work, internships, and serious collaborations</strong></li>
-  <li>Most excited about <strong>AI, data-heavy products, and full-stack engineering</strong></li>
-  <li>Motivated by <strong>craft, measurable impact, and continuous learning</strong></li>
+  <li>Open to <strong>select freelance engagements, internships, and high-trust collaborations</strong></li>
+  <li>Most magnetic topics: <strong>applied AI, rigorous data work, and full-stack systems with taste</strong></li>
+  <li>Driven by <strong>craft, intellectual honesty, and outcomes you can measure</strong></li>
 </ul>
 
 <p align="center">
-  <em>If you’re building something ambitious — let’s make it precise, fast, and built to last.</em>
+  <em>If the roadmap is bold — I’ll help you engineer the version that ships, scales, and survives scrutiny.</em>
 </p>
