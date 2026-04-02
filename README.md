@@ -1,22 +1,46 @@
-<h1 align="center">
+<div align="center">
+
+<h1 style="
+  font-size: 3rem;
+  font-weight: 800;
+  background: linear-gradient(90deg,#58a6ff,#00ffc3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 10px;">
   Abdullah Rana
 </h1>
 
-<h3 align="center">
+<p style="
+  font-size: 1.2rem;
+  color: #c9d1d9;
+  letter-spacing: 1px;
+  margin-bottom: 8px;">
   Data Scientist • Full-Stack Engineer • AI Enthusiast
-</h3>
-
-<p align="center">
-  <strong>Currently contributing at Walee Technologies</strong><br/>
-  <strong>1.6+ Years in Web Development • 5+ Months in Data Science</strong>
 </p>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Full-Stack+MERN+Engineer;AI+%26+ML+Explorer;Building+Scalable+Systems;Turning+Data+into+Impact&center=true&width=650&height=45&color=58a6ff"
-    alt="Typing Animation"
-  />
+<p style="
+  font-size: 0.95rem;
+  color: #8b949e;
+  margin-bottom: 12px;">
+  🚀 Currently contributing at <strong style="color:#58a6ff;">Walee Technologies</strong>
 </p>
+
+<p style="
+  font-size: 0.95rem;
+  color: #8b949e;
+  margin-bottom: 18px;">
+  <strong>1.6+ Years</strong> Web Development • <strong>5+ Months</strong> Data Science
+</p>
+
+<p style="
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #00ffc3;
+  letter-spacing: 1px;">
+  ⚡ Full-Stack MERN Engineer
+</p>
+
+</div>
 
 <hr style="border:1px solid #30363d"/>
 
