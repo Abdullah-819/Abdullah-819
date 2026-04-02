@@ -40,7 +40,7 @@
   color: #00ffc3;
   letter-spacing: 1px;
   margin-top: 15px;">
-  ⚡ MERN Stack — APIs, state, and UX orchestrated for scale
+  ⚡ MERN Stack APIs, state, and UX orchestrated for scale
 </p>
 
 </div>
