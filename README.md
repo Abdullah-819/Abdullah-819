@@ -1,136 +1,176 @@
 <div align="center">
 
-<h1 style="
-  font-size: 3rem;
-  font-weight: 800;
-  background: linear-gradient(90deg,#58a6ff,#00ffc3);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  margin-bottom: 10px;">
-  Abdullah Rana
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D96FF,50:9D4EDD,100:FF6B9D&height=250&section=header&text=Abdullah%20Rana&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Next.js%20Developer&descAlignY=55&descSize=24&descColor=ffffff"/>
 
-<p style="
-  font-size: 1.2rem;
-  color: #c9d1d9;
-  letter-spacing: 1px;
-  margin-bottom: 6px;">
-  Data Scientist · Full-Stack Engineer · Applied AI
+<br/>
+
+<img src="https://img.shields.io/badge/Full--Stack-Developer-0d1117?style=for-the-badge&labelColor=0d1117&color=00ffc3"/>
+<img src="https://img.shields.io/badge/Next.js-App_Router-0d1117?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MERN-Engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff"/>
+
+<br/><br/>
+
+<p style="font-size:1rem; color:#8b949e;">
+  Building at <strong style="color:#58a6ff;">Walee Technologies</strong>
 </p>
 
-<p style="
-  font-size: 0.95rem;
-  color: #8b949e;
-  margin-bottom: 10px;">
-  🛰️ Engineering intelligent systems at <strong style="color:#58a6ff;">Walee Technologies</strong>
+<p style="font-size:0.95rem; color:#8b949e; max-width:600px; margin:auto;">
+  1.6+ years architecting and shipping full-stack applications. Now focused on building production-grade systems with Next.js.
 </p>
 
-<p style="
-  font-size: 0.95rem;
-  color: #8b949e;
-  margin-bottom: 16px;">
-  <strong>1.6+ years</strong> architecting &amp; shipping full-stack software · <strong>5+ months</strong> modeling, analyzing, and deploying data-driven solutions
-</p>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Systems+Built+to+Outlive+the+Hype;Models+Trained+for+Reality%2C+Not+Slides;Interfaces+Where+Latency+Meets+Intention;Data+Pipelines+That+Tell+the+Truth&center=true&width=560&height=40&color=00ffc3" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFC3&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Next.js+Developer;Building+with+App+Router+and+RSC;Clean+Architecture%2C+Real+Performance;Code+That+Ships%2C+Scales%2C+and+Lasts" alt="Typing SVG" />
 
-<p style="
-  font-size: 1.1rem;
-  font-weight: 600;
-  color: #00ffc3;
-  letter-spacing: 1px;
-  margin-top: 15px;">
-  ⚡ MERN Stack APIs, state, and UX orchestrated for scale
-</p>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffc3,100:58a6ff&height=3&width=800"/>
 
 </div>
 
-<hr style="border:1px solid #30363d"/>
+<br/>
 
-<h2>About Me</h2>
+<h2 align="center">About Me</h2>
 
-<ul>
-  <li><strong>1.6+ years</strong> translating product ambiguity into <strong>scalable full-stack architectures</strong> that survive real traffic and real users</li>
-  <li><strong>5+ months</strong> operating at the intersection of <strong>analytics, machine learning, and decision science</strong> — from exploration to iteration</li>
-  <li>I specialize in turning <strong>noise into signal</strong>: structured experiments, interpretable metrics, and models that justify their own complexity</li>
-  <li>Obsessed with the engineering triangle: <strong>clean boundaries, measurable performance, and interfaces that respect attention</strong></li>
-  <li>Fluent in the full vertical: <strong>frameworks, APIs, persistence, deployment-minded workflows, and production hygiene</strong></li>
-  <li>Currently pushing deeper into <strong>LLMs, intelligent automation, and systems that learn without forgetting reliability</strong></li>
-</ul>
+<table align="center">
+<tr>
+<td>
 
-<hr style="border:1px solid #30363d"/>
+- **1.6+ years** translating product ambiguity into scalable full-stack architectures that survive real traffic and real users
+- Recently moved from **MERN Full-Stack Development** into a **Full-Stack Next.js Developer** role, studying the official documentation and applying it in production
+- Focused on the **App Router ecosystem**: Server Components, streaming, and modern rendering strategies
+- Guided by clean boundaries, measurable performance, and interfaces that respect the user's attention
+- Comfortable across the full stack: frameworks, APIs, authentication, databases, and deployment
+- Currently going deeper into Partial Prerendering, tRPC, and production-grade DevOps practices
 
-<h2>⚡ Core Expertise</h2>
+</td>
+</tr>
+</table>
 
-<h3>Data Science &amp; AI</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly"/>
-  <img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDA-0d1117?style=for-the-badge"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffc3,100:58a6ff&height=3&width=800"/>
+
+<h2 align="center">Core Expertise</h2>
+
+<div align="center">
+
+<h4>Framework and Architecture</h4>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/App_Router-0d1117?style=for-the-badge&color=00ffc3&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/React_Server_Components-0d1117?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Streaming_%26_Suspense-0d1117?style=for-the-badge&color=00ffc3&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Partial_Prerendering-0d1117?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+
+<br/><br/>
+
+<h4>Frontend Development</h4>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-0d1117?style=for-the-badge&color=ffffff&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
+<br/><br/>
+
+<h4>Backend and APIs</h4>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebSockets-0d1117?style=for-the-badge&color=58a6ff&labelColor=0d1117"/>
+
+<br/><br/>
+
+<h4>Authentication and Security</h4>
+
+<img src="https://img.shields.io/badge/Auth.js-0d1117?style=for-the-badge&color=00ffc3&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zod-0d1117?style=for-the-badge&color=3E67B1&labelColor=0d1117"/>
+
+<br/><br/>
+
+<h4>Database and Cloud</h4>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<br/><br/>
+
+<h4>Infrastructure and DevOps</h4>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffc3,100:58a6ff&height=3&width=800"/>
+
+<h2 align="center">What I Build</h2>
+
+<table align="center">
+<tr>
+<td>
+
+- Full-stack platforms where domain logic, data flow, and UI state stay consistent with each other
+- Next.js applications built around Server Components, streaming, and edge-ready rendering, not just client-side additions
+- Authentication-first systems using Auth.js, Clerk, JWT, and Zod-validated inputs
+- APIs and services designed for contracts, versioning, and failure handling, not only the happy path
+- High-performance frontends where motion, hierarchy, and feedback feel intentional
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffc3,100:58a6ff&height=3&width=800"/>
+
+<h2 align="center">Professional Focus</h2>
+
+<table align="center">
+<tr>
+<td>
+
+- Building production-ready Next.js applications using the App Router, Server Components, and Partial Prerendering
+- Strengthening real-world Git and GitHub workflows: branching strategies, pull request reviews, merge conflict resolution, and CI/CD with GitHub Actions
+- Managing Development, Staging, and Production environments the way real teams ship software
+- Building for production reliability: observability, resilience, and performance under real load
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ffc3,100:58a6ff&height=3&width=800"/>
+
+<div align="center">
+
+<h2>Let's Connect</h2>
+
+<p style="color:#8b949e; max-width:600px; margin:auto;">
+Open to select freelance engagements, internships, and high-trust collaborations. Most interested in Next.js architecture, full-stack systems, and production engineering. Driven by craft, intellectual honesty, and outcomes that can be measured.
 </p>
 
-<h3>Full-Stack Development</h3>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Redux-0d1117?style=for-the-badge&logo=redux"/>
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase"/>
-</p>
+<br/>
 
-<h3>Tools &amp; Platforms</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman"/>
-  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel"/>
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux"/>
-</p>
+<em>If the roadmap is bold, I will help you engineer the version that ships, scales, and survives scrutiny.</em>
 
-<hr style="border:1px solid #30363d"/>
+<br/><br/>
 
-<h2>🚀 What I Build</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=150&section=footer"/>
 
-<ul>
-  <li><strong>Full-stack platforms</strong> where domain logic, data flow, and UI state stay honest with each other</li>
-  <li><strong>Analytics &amp; intelligence layers</strong> — dashboards and pipelines that change how teams decide, not just what they see</li>
-  <li><strong>ML that earns its place</strong>: validated assumptions, monitored drift, and models aligned with business constraints</li>
-  <li><strong>APIs &amp; services</strong> designed for contracts, versioning, and failure modes — not “happy path only” demos</li>
-  <li><strong>High-performance frontends</strong> where motion, hierarchy, and feedback loops feel intentional — not decorative</li>
-</ul>
-
-<hr style="border:1px solid #30363d"/>
-
-<h2>📈 Professional Focus</h2>
-
-<ul>
-  <li>Shipping <strong>AI-native product behavior</strong>: retrieval, tooling, guardrails, and UX that keeps humans in command</li>
-  <li>Orchestrating <strong>LLM workflows</strong> with clear inputs, evaluable outputs, and cost-aware design</li>
-  <li>Weaving <strong>analytics into the product core</strong> so intelligence is a feature, not an afterthought</li>
-  <li>Building for <strong>production gravity</strong>: observability, resilience, and performance under load — where reputations are won or lost</li>
-</ul>
-
-<hr style="border:1px solid #30363d"/>
-
-<h2>🤝 Let’s Connect</h2>
-
-<ul>
-  <li>Open to <strong>select freelance engagements, internships, and high-trust collaborations</strong></li>
-  <li>Most magnetic topics: <strong>applied AI, rigorous data work, and full-stack systems with taste</strong></li>
-  <li>Driven by <strong>craft, intellectual honesty, and outcomes you can measure</strong></li>
-</ul>
-
-<p align="center">
-  <em>If the roadmap is bold — I’ll help you engineer the version that ships, scales, and survives scrutiny.</em>
-</p>
+</div>
