@@ -44,7 +44,7 @@
 <tr>
 <td>
 
-**1.6+ years** translating product ambiguity into scalable full-stack architectures that survive real traffic and real users
+**1.5+ years** translating product ambiguity into scalable full-stack architectures that survive real traffic and real users
 
 **Recently moved** from MERN Full-Stack Development into a Full-Stack Next.js Developer role, studying the official documentation and applying it in production
 
