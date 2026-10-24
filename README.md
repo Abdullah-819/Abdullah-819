@@ -1,5 +1,13 @@
 <div align="center">
 
+<a href="https://github.com/Abdullah-819">
+  <img src="./intro.gif" alt="Hi there! I'm Abdullah Rana" title="Hi there! I'm Abdullah Rana" width="900"/>
+</a>
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D96FF,50:9D4EDD,100:FF6B9D&height=260&section=header&text=Abdullah%20Rana&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Next.js%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Architect&descAlignY=55&descSize=19&descColor=f0f6fc"/>
 
 <br/>
@@ -233,6 +241,18 @@ Building for production reliability: observability, resilience, and performance 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4D96FF,50:9D4EDD,100:FF6B9D&height=3&width=800"/>
+
+<div align="center">
+
+<h2>Contribution Graph</h2>
+
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="900" alt="3D contribution graph"/>
+
+</div>
 
 <br/>
 
