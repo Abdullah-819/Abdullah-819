@@ -5,11 +5,7 @@
 </a>
 
 </div>
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D96FF,50:9D4EDD,100:FF6B9D&height=260&section=header&text=Abdullah%20Rana&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Next.js%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Architect&descAlignY=55&descSize=19&descColor=f0f6fc"/>
-
 <br/>
 
 <img src="https://img.shields.io/badge/Full--Stack-Engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=4D96FF"/>
