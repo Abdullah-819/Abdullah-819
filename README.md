@@ -6,34 +6,9 @@
 
 </div>
 <div align="center">
-<br/>
 
-<img src="https://img.shields.io/badge/Full--Stack-Engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=4D96FF"/>
-<img src="https://img.shields.io/badge/Next.js-App_Router-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117&color=ffffff"/>
-<img src="https://img.shields.io/badge/Distributed-Microservices-0d1117?style=for-the-badge&labelColor=0d1117&color=9D4EDD"/>
-<img src="https://img.shields.io/badge/Cloud-AWS_DevOps-0d1117?style=for-the-badge&labelColor=0d1117&color=FF6B9D"/>
-
-<br/><br/>
-
-<p style="font-size:1.05rem; color:#8b949e;">
-  Building high-scale platforms at <strong style="color:#4D96FF;">Walee Technologies</strong>
-</p>
-
-<p style="font-size:0.95rem; color:#8b949e; max-width:650px; margin:auto; line-height:1.6;">
-  1.6+ years architecting and shipping production-grade full-stack applications, event-driven microservices, and distributed cloud systems with Next.js & Node.js.
-</p>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Next.js+Developer;Event-Driven+Microservices+%26+Distributed+Systems;Kafka+%E2%80%A2+RabbitMQ+%E2%80%A2+Elasticsearch+%E2%80%A2+AWS;Clean+Architecture%2C+Real+Performance;Code+That+Ships%2C+Scales%2C+and+Survives+Traffic" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4D96FF,50:9D4EDD,100:FF6B9D&height=3&width=800"/>
 
 </div>
-
-<br/>
 
 <h2 align="center">About Me</h2>
 
